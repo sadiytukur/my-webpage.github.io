@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:100%;
+   
+ background: pink url(logo.jpg);
+ background-position:center;
+ background-size:cover;
+ height:10vh;
+
+}
+.icon{
+
+    width:200px;
+    float:left;
+    height:70px;
+}
+.logo{
+    color:brown;
+    font-size:35px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    float:left;
+    padding-top:10px;
+}
+menu line{
+    width:400px;
+    float:left;
+    height: 70px;
+}
+.line{
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.line li{
+    list-style:none;
+    margin-left:62px;
+    margin-top:10px;
+    font-size: 14px;
+}
+.line li a{
+    text text-decoration: none;
+    color:#fff;
+    font-family:arial;
+    font-weight:bold;
+    transition:0.4s ease-in-out;
+
+}
+.line li a:hover{
+
+    color:brown}
+    .content{
+        color:rgb(38, 32, 32);
+        background-color: antiquewhite;
+        height:90vh;
+
+    }
+    ul.fried{
+        background-color: bisque;
+        height:100vh;
+     font-family: Arial;
+     margin-top:10px ;
+     float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+
+     }
+ body.drinks{
+    background-color: bisque;
+    height:100vh;
+
+}
+.drinks.ul{
+    
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.about
+{
+    background-color:rgb(228, 216, 193);
+    font-size: xx-large ;
+    color:rgb(129, 52, 52)
+}
+.contact{
+    background-color: bisque;
+}
+.content{
+    color:brown;
+    font-size: larger;
+}
